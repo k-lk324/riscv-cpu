@@ -84,7 +84,7 @@ parameter[3:0] ALUOP_XOR = 4'b0101;
 ### Εικόνα Εξόδου (Waveform)
 Παρατίθεται η εικόνα της παραγόμενης waveform για την προσομοίωση που πραγματοποιήθηκε κατά τη διάρκεια των δοκιμών.
 
-![Παραγόμενη waveform από την προσομοίωση](figures/askhsh2epwave.png)
+![Παραγόμενη waveform από την προσομοίωση](../figures/askhsh2epwave.png)
 
 ## Άσκηση 3: `regfile.v`
 
@@ -125,7 +125,7 @@ end
 Στην υλοποίηση, προστέθηκαν instances για την `ALU` και τους καταχωρητές (`regfile`). Επιπλέον, τα σήματα που αναφέρθηκαν στην εκφώνηση της άσκησης ρυθμίστηκαν σύμφωνα με το παρακάτω διάγραμμα:
 
 ### Διάγραμμα για την υλοποίηση του datapath
-![Διάγραμμα για την υλοποίηση του datapath](figures/askhsh4.png)
+![Διάγραμμα για την υλοποίηση του datapath](../figures/askhsh4.png)
 
 ## Άσκηση 5: `top_proc.v`
 
@@ -163,7 +163,7 @@ end
 
 ### Διάγραμμα FSM
 
-![FSM Diagram](figures/fsm.drawio.png)
+![FSM Diagram](../figures/fsm.drawio.png)
 
 ### `top_proc_tb.v`
 
@@ -202,4 +202,4 @@ end
 
 ### Αποτέλεσμα της προσωμοίωσης (Waveform)
 
-![Ex5Waveform](figures/newaskhsh5.png)
+![Ex5Waveform](../figures/newaskhsh5.png)
